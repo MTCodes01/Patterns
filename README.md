@@ -61,7 +61,7 @@ A repo for the pattern programs I do.
   5 6 7 8 9 8 7 6 5
   ```
 
-- [ ] **Diamond Number Pattern**
+- [x] **Number Diamond**
   ```
       1
      1 2 1
